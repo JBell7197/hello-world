@@ -3,4 +3,4 @@ First repository!
 
 Hello,
 
-I'm to learn code, work on projects, and get to know other coders.
+I'm here to learn code, work on projects, and get to know other coders.
